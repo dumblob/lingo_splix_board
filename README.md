@@ -13,7 +13,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
 # TODO
 * think of a better name for this project (hints: ergo, ergonomic, slim, portable, ...)
-* contact Mr. P. Jakoubek and Mr. L. Hejkal regarding the plastic parts of scissor switches (injection moulding into a steel/aluminium mold?)
+* contact Mr. P. Jakoubek, Mr. D. Kolibáč, and Mr. L. Hejkal regarding the plastic parts of scissor switches (injection moulding into a steel/aluminium mold?)
 * choose a fitting HW license (similar to MIT and CC BY-SA 4.0)
 
 # Links
