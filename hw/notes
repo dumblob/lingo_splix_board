@@ -1,0 +1,15 @@
+1) Mrkni na formaty, materialy a veskere dalsi pozadavky pro design desky na http://imall.iteadstudio.com/open-pcb/pcb-prototyping.html (po kliknuti na "add to cart") - budeme to s nejvyssi pravdepodobnosti vyrabet u nich. Mimochodem, az budes pridavat soucastky do vykresu, tak se nejprve mrkni, zdali je nemaji primo na http://imall.iteadstudio.com/electronic-components.html , protoze oni by je tam mohli ihned profesionalne osadit za minimalni priplatek. Tim znatelne zvysujeme sanci na oziveni a snizujeme vlastne cenu, protoze kdybychom kupovali soucastky zvlast, vyjde to nakonec urcite draz. Takovouhle https://openalt.org/led-logo-openaltu/ s nimi mame zkusenost my.
+
+2) Jako cip s nejvyssi pravedpodobnosti pouzijeme bud ATmega64A (TQFP-64) nebo ATmega128A (QFP-64). Dokumentace k fixne danym pinum naleznes primo na strankach Atmelu (ostatni piny, tj. ty, ktere budou pripojene ke spinacum na klavesnici, si muzes navrhnout jak chces). Pouzdra jsou uvedena v zavorkach - tedy TQFP-64 a QFP-64. Prednost ma ATmega128A, protoze to ma dvojnasobne velke oboje dvoje nejdulezitejsi pameti (SRAM a Flash).
+
+2) Budes tam muset zakomponovat obvody pro softwarove USB, konkretne https://metalab.at/wiki/Metaboard .
+
+3) Urcite zacni s https://github.com/geekhack-org/kicad-library - hosi z Geekhacku na tom makaji jiz mnoho let. Take mrkni na "Why not use a Teensy" na http://www.ladyada.net/products/atmega32u4breakout/ , abys na takovehle "prkotiny" pri navrhu myslel. Kdyby te to kresleni fakt chytlo, tak pro inspiraci urcite doporucuji Adafruit https://learn.adafruit.com/ a jejich clanky/navody na pouzity a vyrobu jejich produktu.
+
+Jinak take muzes nahodne udelat nejake video z toho jak kreslis (klidne i s komentarem - i kdyz nebude anglicky, tak je vitany), aby pote bylo co vystavovat (vsak vis, ze bez obrazku a videa dneska projekt proste neexistuje :( ).
+
+Jednou z mych prvnich myslenek bylo, abys pri navrhu nezapomnel, ze obe poloviny te klavesnice budou muset byt necim propojeny (a tedy kazda mit v sobe vlastni cip - jedna z nich muze byt s vyrazne slabsim cipem, ale ja bych klidne na obe dal ten samy a ty 3 dolary rozdilu moc neresil; ani spotrebu zatim moc neresime :) ) - minimum jsou dva kabely(pro 1-wire protokol s power over line - napr. MicroLAN), kdy datovy kabel je pripojeny na jeden GPIO a k tomu zvenci pres nejaky maly obvudek (minimalne diodu a nejaky rezistor bych tipnul) k tomu datovem pripojis i napajeni a pak pridas druhy kabel, coz je zem. Ale radeji tam navrhni rovnou ctyri kabely pro I2C - tzn. dva kabely pripojene na TWI piny z te Atmegy (tusim pres pull-up rezistory - ale projdi dokumentaci - treba budou uz v cipu a na desce by byly zbytecne) a pak samostatne napajeni a posledni zase zem.
+
+K tomuto vsemu najdes schemata na netu - hledej Atmega nebo AVR - vetsina navodu na obvody je univerzalnich pro jakoukoliv Atmegu.
+
+vim: set wrap:
