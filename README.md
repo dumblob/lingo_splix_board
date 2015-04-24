@@ -41,6 +41,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
 ## Contributors
 * Jiri Pacner (HW design)
+* Pavel Pacner (3D models, media)
 * Jan Pacner (initial idea, initial design, SW)
 * *You*! (you're more than welcome to join us!)
 
