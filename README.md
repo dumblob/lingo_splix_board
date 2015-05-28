@@ -16,6 +16,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * contact Mr. P. Jakoubek, Mr. D. Kolibáč, and Mr. L. Hejkal regarding the plastic parts of scissor switches (injection moulding into a steel/aluminium mold?)
 * choose a fitting HW license (similar to MIT and CC BY-SA 4.0)
 * investigate double-trackpoint/point_stick placement - (un)mountable?, each half it's own and fixed?
+* marketing (Student Agency - no place for keyboard; ...)
 
 ## Remarks
 * use ATmega128A (QFP-64) or ATmega64A (TQFP-64)
