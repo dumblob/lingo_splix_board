@@ -27,6 +27,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
 ## Links for inspiration
 * similar keyboard, but done in a megalomaniac way: http://www.key64.org/
+* similar keyboard, but done in a yet more megalomaniac way: http://www.keyboard.io/
 * similar keyboard, with high switches, but using the same design process as we did (it's unbelievable their design is from 2013, our from 2008, but we didn't share anything :open_mouth:): http://habrahabr.ru/post/177347/
 * ZX81 USB kbd: http://blog.tynemouthsoftware.co.uk/2012/02/arduino-based-zx81-usb-keyboard.html
 * IBM model M with USB: http://www.schatenseite.de/dulcimer.html?L=2
@@ -35,6 +36,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * Mini Keyboard with Trackpoint: http://geekhack.org/showwiki.php?title=Island:4917&do=comments&page=83
 * Apple keyboard mod to NKRO + teensy: http://deskthority.net/viewtopic.php?f=7&t=1067
 * SW USB implementation: http://www.obdev.at/products/vusb/index.html
+* HW keyboard matrix explained in detail: http://blog.komar.be/how-to-make-a-keyboard-the-matrix/
 * how to remove the old yellowish tint: http://retr0bright.wikispaces.com/
 
 ## Links for wishlist features
