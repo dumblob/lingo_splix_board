@@ -54,10 +54,10 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * Jiri Pacner (HW design)
 * Pavel Pacner (3D models, media)
 * Jan Pacner (initial idea, initial design, SW)
-* *You*! (you're more than welcome to join us!)
+* *You* (you're more than welcome to join us!)
 
 ## Licensing
 The following licenses apply if not stated otherwise:
 * The SW part is under *MIT* (see `sw/LICENSE`).
-* The HW part is under *FIXME* (see `hw/LICENSE`).
+* The HW part is under *CC BY-SA 4.0* (see `hw/LICENSE`).
 * The rest is under *CC BY-SA 4.0* (see `design/LICENSE`).
