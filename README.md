@@ -1,6 +1,8 @@
 # Keyboard *hw_kbd*
 A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
+![screenshot1](design/model/201507181700-overview.png)
+
 ## Preliminary requirements
 * selection from different variants
 * both parts
@@ -11,6 +13,10 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * backlight (adjustable)
 * anti-slippery stands (perhaps sucking disks)
 * maybe water-proof
+
+## Done
+* preliminary design sketch ([screenshot1](design/model/201507181700-overview.png), [screenshot2](design/model/201507181701-overview.png))
+* initial parts of HW circuit scheme ([screenshot1](hw/PR/20150720170901-screenshot.png), [screenshot2](hw/PR/20150720170926-screenshot.png))
 
 ## TODO
 * think of a better name for this project (hints: ergo, ergonomic, slim, portable, ...)

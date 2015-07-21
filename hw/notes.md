@@ -4,7 +4,7 @@
 
 2) Budes tam muset zakomponovat obvody pro softwarove USB, konkretne https://metalab.at/wiki/Metaboard .
 
-3) Urcite zacni s https://github.com/geekhack-org/kicad-library - hosi z Geekhacku na tom makaji jiz mnoho let. Take mrkni na "Why not use a Teensy" na http://www.ladyada.net/products/atmega32u4breakout/ , abys na takovehle "prkotiny" pri navrhu myslel. Kdyby te to kresleni fakt chytlo, tak pro inspiraci urcite doporucuji Adafruit https://learn.adafruit.com/ a jejich clanky/navody na pouzity a vyrobu jejich produktu.
+3) Urcite zacni s https://github.com/geekhack-org/kicad-library - hosi z Geekhacku na tom makaji jiz mnoho let. Take mrkni na "Why not use a Teensy" na http://www.ladyada.net/products/atmega32u4breakout/ , abys na takovehle "prkotiny" pri navrhu myslel. Kdyby te to kresleni fakt chytlo, tak pro inspiraci urcite doporucuji Adafruit https://learn.adafruit.com/ a jejich clanky/navody na pouziti a vyrobu jejich produktu.
 
 4) Kazda polovina klavesnice musi pocitat s 15 GPIO piny - tzn., nelze pouzit "hloupe zapojeni podle radku a sloupcu", nybrz je nutno tlacitka zapojit do ctvercove matice (plus minus jeden radek/sloupec v pripade licheho cisla jako napr. 15=7+8), aby se setrilo mnozstvi GPIO pinu.
 
