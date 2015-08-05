@@ -6,7 +6,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 ## Preliminary requirements
 * selection from different variants
 * both parts
-    * wireless
+    * wireless (working with Android out of the box)
     * wired (wire spool)
 * some fixture/handle to fix both parts together in a space-saving manner
 * backlit
