@@ -41,6 +41,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * IBM model M with USB: http://mg8.org/rump/
 * Commodore 64 (C64) USB kbd: http://symlink.dk/projects/c64key/
 * Mini Keyboard with Trackpoint: http://geekhack.org/showwiki.php?title=Island:4917&do=comments&page=83
+* 3D printed keyboard: http://deskthority.net/workshop-f7/katy-keyboard-or-k80cs-key80-contoured-split-t8524.html
 * Apple keyboard mod to NKRO + teensy: http://deskthority.net/viewtopic.php?f=7&t=1067
 * SW USB implementation: http://www.obdev.at/products/vusb/index.html
 * HW keyboard matrix explained in detail: http://blog.komar.be/how-to-make-a-keyboard-the-matrix/
