@@ -31,6 +31,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * SW USB circuit https://metalab.at/wiki/Metaboard
 * 1-wire design guide PDF
 * silicon rubber keys are for sale (http://sk.quad-ind.com/silikonove-klavesnice/ , http://www.unipad.cz/index.php/cs/silikonove-klavesnice)
+* high-quality plastic manufacturing is affordable (price, time, quality) e.g. at http://www.shapeways.com/ (USA & Europe factories)
 
 ## Links for inspiration
 * similar keyboard, but done in a megalomaniac way: http://www.key64.org/
