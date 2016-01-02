@@ -1,9 +1,11 @@
 # Keyboard *hw_kbd*
+
 A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
 ![screenshot1](design/model/201507181700-overview.png)
 
 ## Preliminary requirements
+
 * selection from different variants
 * both parts
     * wireless (working with Android out of the box)
@@ -14,11 +16,16 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * anti-slippery stands (perhaps sucking disks)
 * maybe water-proof
 
-## Done
+## Progress
+
+### Done
+
 * preliminary design sketch ([screenshot1](design/model/201507181700-overview.png), [screenshot2](design/model/201507181701-overview.png))
+* sump sketch (https://www.youtube.com/watch?v=kU6nasYpbfk)
 * initial parts of HW circuit scheme ([screenshot1](hw/PR/20150720170901-screenshot.png), [screenshot2](hw/PR/20150720170926-screenshot.png))
 
-## TODO
+### TODO
+
 * think of a better name for this project (hints: ergo, ergonomic, slim, portable, ...)
 * contact Mr. P. Jakoubek, Mr. D. Kolibáč, and Mr. L. Hejkal regarding the plastic parts of scissor switches (injection moulding into a steel/aluminium mold?)
 * choose a fitting HW license (similar to MIT and CC BY-SA 4.0, but with a notion about HW patents)
@@ -26,6 +33,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * marketing (Student Agency - no place for keyboard; ...)
 
 ## Remarks
+
 * use ATmega128A (QFP-64) or ATmega64A (TQFP-64)
 * TWI (Two Wire Interface) on Atmel is I2C
 * SW USB circuit https://metalab.at/wiki/Metaboard
@@ -34,6 +42,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * high-quality plastic manufacturing is affordable (price, time, quality) e.g. at http://www.shapeways.com/ (USA & Europe factories)
 
 ## Links for inspiration
+
 * similar keyboard, but done in a megalomaniac way: http://www.key64.org/
 * similar keyboard, but done in a yet more megalomaniac way: http://www.keyboard.io/
 * similar keyboard, with high switches, but using the same design process as we did (it's unbelievable their design is from 2013, our from 2008, but we didn't share anything :open_mouth:): http://habrahabr.ru/post/177347/
@@ -49,17 +58,21 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * how to remove the old yellowish tint: http://retr0bright.wikispaces.com/
 
 ## Links for wishlist features
+
 * Mini ZigBee / CC2530 Module; HC-06 Arduino Bluetooh Bee; XBee; Bluetooh Bee HC-05 Wireless Bluetooth; Geeetech XBee 2mW Wire Antenna
 * HID for Bluetooth dongles in USB: http://anselm.hoffmeister.be/computer/hidclient/index.html.en
 
 ## Contributors
+
 * Jiri Pacner (HW design)
 * Pavel Pacner (3D models, media)
 * Jan Pacner (initial idea, initial design, SW)
 * *You* (you're more than welcome to join us!)
 
 ## Licensing
+
 The following licenses apply if not stated otherwise:
+
 * The SW part is under *MIT* (see `sw/LICENSE`).
 * The HW part is under *CC BY-SA 4.0* (see `hw/LICENSE`).
 * The rest is under *CC BY-SA 4.0* (see `design/LICENSE`).
