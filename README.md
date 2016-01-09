@@ -29,7 +29,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * think of a better name for this project (hints: ergo, ergonomic, slim, portable, ...)
 * contact Mr. P. Jakoubek, Mr. D. Kolibáč, and Mr. L. Hejkal regarding the plastic parts of scissor switches (injection moulding into a steel/aluminium mold?)
 * choose a fitting HW license (similar to MIT and CC BY-SA 4.0, but with a notion about HW patents)
-* investigate double-trackpoint/point_stick placement - (un)mountable?, each half it's own and fixed?
+* investigate double-trackpoint/point_stick placement - (un)mountable?, each half it's own and fixed?, 90°-rotated thumb micro-switches on the side?
 * marketing (Student Agency - no place for keyboard; ...)
 
 ## Remarks
