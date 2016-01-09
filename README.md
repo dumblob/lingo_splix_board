@@ -56,6 +56,9 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * SW USB implementation: http://www.obdev.at/products/vusb/index.html
 * HW keyboard matrix explained in detail: http://blog.komar.be/how-to-make-a-keyboard-the-matrix/
 * how to remove the old yellowish tint: http://retr0bright.wikispaces.com/
+* TrackPoint history: https://news.ycombinator.com/item?id=9437780
+* TrackPoint creator's collection of human interface devices: http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/default.aspx
+* TrackPoint creator's notes about TrackPoint: http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/detail.aspx?id=60
 
 ## Links for wishlist features
 
