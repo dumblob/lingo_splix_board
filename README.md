@@ -20,9 +20,9 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
 ### done
 
-* preliminary design sketch ([screenshot1](design/model/201507181700-overview.png), [screenshot2](design/model/201507181701-overview.png), [screenshot3](design/model/201602252030-bath.png), [overview_shot](design/model/201602252030-overview.png))
+* preliminary design sketch ([sketch01](design/model/201507181700-overview.png), [sketch02](design/model/201507181701-overview.png), [sketch03](design/model/201602252030-bath.png), [sketch04](design/model/201602252030-overview.png))
 * sump sketch (https://www.youtube.com/watch?v=kU6nasYpbfk)
-* initial parts of HW circuit scheme ([screenshot1](hw/PR/20150720170901-screenshot.png), [screenshot2](hw/PR/20150720170926-screenshot.png), [screenshot3](hw/PR/2016-02-13_212414-screenshot.png))
+* initial parts of HW circuit scheme ([circuit01](hw/PR/20150720170901-screenshot.png), [circuit02](hw/PR/20150720170926-screenshot.png), [circuit03](hw/PR/2016-02-13_212414-screenshot.png), [circuit04](hw/PR/20160228174205-circuit.png), [circuit05](hw/PR/20160228174213-circuit.png))
 
 ### todo
 
