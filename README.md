@@ -22,7 +22,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
 ### done
 
-* preliminary design sketch ([sketch01](design/model/201507181700-overview.png), [sketch02](design/model/201507181701-overview.png), [sketch03](design/model/201602252030-bath.png), [sketch04](design/model/201602252030-overview.png))
+* preliminary design sketch ([sketch 201507181700](design/model/201507181700-overview.png), [sketch 201507181701](design/model/201507181701-overview.png), [sketch 201602232051](design/model/201602232051-overview-no_caps.png), [sketch 201602232052](design/model/201602232052-overview.png), [sketch 201602232053](design/model/201602232053-overview.png), [sketch 201602252030 of sump](design/model/201602252030-sump.png), [sketch 201602252030](design/model/201602252030-overview.png))
 * sump sketch (https://www.youtube.com/watch?v=kU6nasYpbfk)
 * initial parts of HW circuit scheme ([circuit01](hw/PR/20150720170901-screenshot.png), [circuit02](hw/PR/20150720170926-screenshot.png), [circuit03](hw/PR/2016-02-13_212414-screenshot.png), [circuit04](hw/PR/20160228174205-circuit.png), [circuit05](hw/PR/20160228174213-circuit.png), [circuit06](hw/PR/201603041506-circuit.png))
 
