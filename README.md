@@ -4,8 +4,6 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
 ![overview_shot](design/model/201602252030-overview.png)
 
-![circuit06](hw/PR/201603041506-circuit.png)
-
 ## Preliminary requirements
 
 * selection from different variants
