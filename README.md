@@ -4,17 +4,14 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
 ![overview_shot](design/model/201602252030-overview.png)
 
-## Preliminary requirements
+## Features
 
-* selection from different variants
-* both parts
-    * wireless (working with Android out of the box)
-    * wired (wire spool)
-* some fixture/handle to fix both parts together in a space-saving manner
-* backlit
-* backlight (adjustable)
-* anti-slippery stands (perhaps sucking disks)
-* maybe water-proof
+#. **Slim low-profile design**
+#. **Split into 2 halfs** for outstanding ergonomy
+#. **Portable** - easily foldable
+#. **USB connection** - use it anywhere
+#. **Modern look** - please your heart
+#. **Open Source** - never be dependent
 
 ## Progress
 
@@ -45,7 +42,7 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 ### TODO
 
 * think of a better name for this project (hints: ergo, ergonomic, slim, portable, ...)
-* contact Mr. P. Jakoubek, Mr. D. Kolibáč, and Mr. L. Hejkal regarding the plastic parts of scissor switches (injection moulding into a steel/aluminium mold?)
+* contact P. Jakoubek, D. Kolibáč, and L. Hejkal regarding the plastic parts of scissor switches (injection moulding into a steel/aluminium mold?)
 * choose a fitting HW license (similar to MIT and CC BY-SA 4.0, but with a notion about HW patents)
 * investigate double-trackpoint/point_stick placement - (un)mountable?, each half it's own and fixed?, 90°-rotated thumb micro-switches on the side?
 * marketing (Student Agency - no place for keyboard; ...)
@@ -78,14 +75,28 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 * TrackPoint creator's collection of human interface devices: http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/default.aspx
 * TrackPoint creator's notes about TrackPoint: http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/detail.aspx?id=60
 
-## Links for wishlist features
+## Wishlist features
 
-* Mini ZigBee / CC2530 Module; HC-06 Arduino Bluetooh Bee; XBee; Bluetooh Bee HC-05 Wireless Bluetooth; Geeetech XBee 2mW Wire Antenna
-* HID for Bluetooth dongles in USB: http://anselm.hoffmeister.be/computer/hidclient/index.html.en
+* selection from different variants (perhaps configurable)
+    * Standard (full-featured big keyboard for power users)
+    * Standard Wireless
+    * Mini (cut-down version for portability and presentation)
+    * Mini Wireless
+* both halfs
+    * wired (wire spool)
+    * wireless (working with Android out of the box)
+        * Mini ZigBee / CC2530 Module; HC-06 Arduino Bluetooh Bee; XBee; Bluetooh Bee HC-05 Wireless Bluetooth; Geeetech XBee 2mW Wire Antenna
+        * HID for Bluetooth dongles in USB: http://anselm.hoffmeister.be/computer/hidclient/index.html.en
+* fixture/handle/hinge to fix both halfs together in a space-saving manner
+* backlit
+* backlight (adjustable)
+* anti-slippery stands (perhaps sucking disks)
+* maybe water-proof
 
 ## Contributors
 
 * Jiri Pacner (HW design)
+* Itchy (HW design feedback)
 * Pavel Pacner (3D models, media)
 * Jan Pacner (initial idea, initial design, SW)
 * *You* (you're more than welcome to join us!)
