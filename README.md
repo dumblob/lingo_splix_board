@@ -6,12 +6,12 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 
 ## Features
 
-#. **Slim low-profile design**
-#. **Split into 2 halfs** for outstanding ergonomy
-#. **Portable** - easily foldable
-#. **USB connection** - use it anywhere
-#. **Modern look** - please your heart
-#. **Open Source** - never be dependent
+1. **Slim low-profile design**
+1. **Split into 2 halfs** for outstanding ergonomy
+1. **Portable** - easily foldable
+1. **USB connection** - use it anywhere
+1. **Modern look** - please your heart
+1. **Open Source** - never be dependent
 
 ## Progress
 
