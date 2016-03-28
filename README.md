@@ -1,6 +1,6 @@
-# Keyboard *hw_kbd*
+# Lingo Splix Board
 
-A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
+A brand new way of a deeply ergonomic slim keyboard design - HW &amp; SW
 
 ![overview_shot](design/model/201602252030-overview.png)
 
@@ -10,17 +10,15 @@ A brand new way of deeply ergonomic slim keyboard design - HW &amp; SW
 1. **Split into 2 halfs** for outstanding ergonomy
 1. **Portable** - easily foldable
 1. **USB connection** - use it anywhere
-1. **Modern look** - please your heart
+1. [**Modern look**](https://www.youtube.com/watch?v=RVa64frZOLY) - please your heart
 1. **Open Source** - never be dependent
 
 ## Progress
 
 ### Done
 
-<!--
 * design animation
-    * youtube.com
--->
+    * https://www.youtube.com/watch?v=RVa64frZOLY
 * design sketch
     * [sketch 201507181700](design/model/201507181700-overview.png)
     * [sketch 201507181701](design/model/201507181701-overview.png)
