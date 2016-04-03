@@ -44,6 +44,7 @@ A brand new way of a deeply ergonomic slim keyboard design - HW &amp; SW
 * choose a fitting HW license (similar to MIT and CC BY-SA 4.0, but with a notion about HW patents)
 * investigate double-trackpoint/point_stick placement - (un)mountable?, each half it's own and fixed?, 90°-rotated thumb micro-switches on the side?
 * marketing (Student Agency - no place for keyboard; ...)
+* add numeric keyboard to be successful on market
 
 ## Remarks
 
