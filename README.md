@@ -39,9 +39,8 @@ A brand new way of a deeply ergonomic slim keyboard design - HW &amp; SW
 
 ### TODO
 
-* think of a better name for this project (hints: ergo, ergonomic, slim, portable, ...)
 * contact P. Jakoubek, D. Kolibáč, and L. Hejkal regarding the plastic parts of scissor switches (injection moulding into a steel/aluminium mold?)
-* choose a fitting HW license (similar to MIT and CC BY-SA 4.0, but with a notion about HW patents)
+* choose a better fitting HW license (similar to MIT and CC BY-SA 4.0, but with a notion about HW patents in a way, that anyone using this or derived work can't be sued)
 * investigate double-trackpoint/point_stick placement - (un)mountable?, each half it's own and fixed?, 90°-rotated thumb micro-switches on the side?
 * marketing (Student Agency - no place for keyboard; ...)
 * add numeric keyboard to be successful on market
@@ -49,7 +48,7 @@ A brand new way of a deeply ergonomic slim keyboard design - HW &amp; SW
 ## Remarks
 
 * use ATmega128A (QFP-64) or ATmega64A (TQFP-64)
-* TWI (Two Wire Interface) on Atmel is I2C
+* *TWI* (Two Wire Interface) on Atmel is *I2C*
 * SW USB circuit https://metalab.at/wiki/Metaboard
 * 1-wire design guide PDF
 * silicon rubber keys are for sale (http://sk.quad-ind.com/silikonove-klavesnice/ , http://www.unipad.cz/index.php/cs/silikonove-klavesnice)

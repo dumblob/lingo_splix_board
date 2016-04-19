@@ -1,0 +1,5 @@
+*.bak binary
+*.bck binary
+*.dcm binary
+*.lib binary
+*.sch binary

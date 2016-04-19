@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Cherry-button
+#
+DEF Cherry-button SW 0 0 N Y 1 F N
+F0 "SW" 0 160 50 H V C CNN
+F1 "Cherry-button" 0 -220 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+C -150 0 50 0 0 0 N
+C 150 0 50 0 0 0 N
+P 2 0 0 0  -100 0  100 100 N
+P 2 0 1 0  -200 -150  200 -150 N
+X 1 1 -320 0 118 R 50 50 1 1 I
+X 2 2 320 0 118 L 50 50 1 1 I
+X 3 3 320 -150 118 L 50 50 1 1 I
+X 4 4 -320 -150 118 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
