@@ -1,6 +1,6 @@
 # Lingo Splix Board
 
-A brand new way of a deeply ergonomic slim keyboard design - HW &amp; SW
+A brand new deeply ergonomic slim keyboard - HW &amp; SW
 
 ![overview_shot](design/model/201602252030-overview.png)
 
