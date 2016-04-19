@@ -13,6 +13,9 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 1. [**Modern look**](https://www.youtube.com/watch?v=RVa64frZOLY) - please your heart
 1. **Open Source** - never be dependent
 
+<!-- from creators of ULKS -->
+<!-- has certification from the Czech ergonomy society/??? -->
+
 ## Progress
 
 ### Done
