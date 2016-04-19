@@ -35,7 +35,7 @@ A brand new way of a deeply ergonomic slim keyboard design - HW &amp; SW
     * [circuit03](hw/PR/2016-02-13_212414-screenshot.png)
     * [circuit04](hw/PR/20160228174205-circuit.png)
     * [circuit05](hw/PR/20160228174213-circuit.png)
-    * [circuit06](hw/PR/201603041506-circuit.png)
+<!--    * [circuit06](hw/PR/201603041506-circuit.png) -->
 
 ### TODO
 
