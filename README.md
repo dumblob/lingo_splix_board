@@ -4,7 +4,7 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 
 ![overview_shot](design/model/201602252030-overview.png)
 
-![circuit05](hw/PR/201604212151-circuit.png)
+![circuit06](hw/PR/201604212151-circuit.png)
 
 ## Features
 
@@ -40,9 +40,9 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
     * [circuit03](hw/PR/2016-02-13_212414-screenshot.png)
     * [circuit04](hw/PR/20160228174205-circuit.png)
     * [circuit05](hw/PR/20160228174213-circuit.png)
-    * [circuit05](hw/PR/201604212151-circuit.png)
-    * [circuit05](hw/PR/201604212153-circuit.png)
-    * [circuit05](hw/PR/201604212154-circuit.png)
+    * [circuit06](hw/PR/201604212151-circuit.png)
+    * [circuit07](hw/PR/201604212153-circuit.png)
+    * [circuit08](hw/PR/201604212154-circuit.png)
 
 ### TODO
 
