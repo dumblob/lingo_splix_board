@@ -4,7 +4,7 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 
 ![overview_shot](design/model/201602252030-overview.png)
 
-![circuit06](hw/PR/201604212151-circuit.png)
+![PCB left 201604212151](hw/PR/201604212151-circuit.png)
 
 ## Features
 
@@ -25,24 +25,27 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 * design animation
     * https://www.youtube.com/watch?v=RVa64frZOLY
 * design sketch
-    * [sketch 201507181700](design/model/201507181700-overview.png)
-    * [sketch 201507181701](design/model/201507181701-overview.png)
-    * [sketch 201602232051](design/model/201602232051-overview-no_caps.png)
-    * [sketch 201602232052](design/model/201602232052-overview.png)
-    * [sketch 201602232053](design/model/201602232053-overview.png)
-    * [sketch 201602252030](design/model/201602252030-overview.png)
+    * [LSB sketch 201507181700](design/model/201507181700-overview.png)
+    * [LSB sketch 201507181701](design/model/201507181701-overview.png)
+    * [LSB sketch 201602232051](design/model/201602232051-overview-no_caps.png)
+    * [LSB sketch 201602232052](design/model/201602232052-overview.png)
+    * [LSB sketch 201602232053](design/model/201602232053-overview.png)
+    * [LSB sketch 201602252030](design/model/201602252030-overview.png)
 * sump sketch
     * https://www.youtube.com/watch?v=kU6nasYpbfk
-    * [sketch 201602252030](hw/PR/201602252030-sump.png)
+    * [sump sketch left 201602252030](hw/PR/201602252030-sump.png)
+* sump 3D print
+    * [sump left 201604081601](hw/PR/201604081601-left_sump_3D_printed.jpg)
+    * [sump left 201604081603](hw/PR/201604081603-left_sump_3D_printed.jpg)
 * PCB circuit scheme
-    * [circuit01](hw/PR/20150720170901-screenshot.png)
-    * [circuit02](hw/PR/20150720170926-screenshot.png)
-    * [circuit03](hw/PR/2016-02-13_212414-screenshot.png)
-    * [circuit04](hw/PR/20160228174205-circuit.png)
-    * [circuit05](hw/PR/20160228174213-circuit.png)
-    * [circuit06](hw/PR/201604212151-circuit.png)
-    * [circuit07](hw/PR/201604212153-circuit.png)
-    * [circuit08](hw/PR/201604212154-circuit.png)
+    * [PCB left 20150720170901](hw/PR/20150720170901-screenshot.png)
+    * [PCB left 20150720170926](hw/PR/20150720170926-screenshot.png)
+    * [PCB left 20160213212414](hw/PR/2016-02-13_212414-screenshot.png)
+    * [PCB left 20160228174205](hw/PR/20160228174205-circuit.png)
+    * [PCB left 20160228174213](hw/PR/20160228174213-circuit.png)
+    * [PCB left 201604212151](hw/PR/201604212151-circuit.png)
+    * [PCB left 201604212153](hw/PR/201604212153-circuit.png)
+    * [PCB left 201604212154](hw/PR/201604212154-circuit.png)
 
 ### TODO
 
