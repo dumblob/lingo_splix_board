@@ -4,6 +4,8 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 
 ![overview_shot](design/model/201602252030-overview.png)
 
+![circuit05](hw/PR/201604212151-circuit.png)
+
 ## Features
 
 1. **Slim low-profile design**
@@ -13,8 +15,8 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 1. [**Modern look**](https://www.youtube.com/watch?v=RVa64frZOLY) - please your heart
 1. **Open Source** - never be dependent
 
-<!-- from creators of ULKS -->
-<!-- has certification from the Czech ergonomy society/??? -->
+<!-- from creators of ULKL -->
+<!-- has certification from the Czech Ergonomy Association -->
 
 ## Progress
 
@@ -38,7 +40,9 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
     * [circuit03](hw/PR/2016-02-13_212414-screenshot.png)
     * [circuit04](hw/PR/20160228174205-circuit.png)
     * [circuit05](hw/PR/20160228174213-circuit.png)
-<!--    * [circuit06](hw/PR/201603041506-circuit.png) -->
+    * [circuit05](hw/PR/201604212151-circuit.png)
+    * [circuit05](hw/PR/201604212153-circuit.png)
+    * [circuit05](hw/PR/201604212154-circuit.png)
 
 ### TODO
 
