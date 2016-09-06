@@ -82,6 +82,7 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 * TrackPoint history: https://news.ycombinator.com/item?id=9437780
 * TrackPoint creator's collection of human interface devices: http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/default.aspx
 * TrackPoint creator's notes about TrackPoint: http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/detail.aspx?id=60
+* round plastic circles for index fingers mimicking a gliding TrackPoint
 
 ## Wishlist features
 
