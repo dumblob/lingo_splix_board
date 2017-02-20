@@ -58,6 +58,7 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 ## Remarks
 
 * use ATmega128A (QFP-64) or ATmega64A (TQFP-64)
+* wrong fuse calculation might temporarily "brick" an Atmel uC (see [Engbedded Atmel AVR Fuse Calculator](http://www.engbedded.com/fusecalc/ ))
 * *TWI* (Two Wire Interface) on Atmel is *I2C*
 * SW USB circuit https://metalab.at/wiki/Metaboard
 * 1-wire design guide PDF
