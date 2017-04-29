@@ -64,6 +64,7 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 * 1-wire design guide PDF
 * silicon rubber keys are for sale (http://sk.quad-ind.com/silikonove-klavesnice/ , http://www.unipad.cz/index.php/cs/silikonove-klavesnice)
 * high-quality plastic manufacturing is affordable (price, time, quality) e.g. at http://www.shapeways.com/ (USA & Europe factories)
+* for 3D printing use the most high quality PLA available (see the *arm-netbook* mailing list at phcomp.co.uk): [Faberdashery](http://www.faberdashery.co.uk/tag/pla/ )
 
 ## Links for inspiration
 
