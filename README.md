@@ -76,6 +76,7 @@ A brand new deeply ergonomic slim keyboard - HW &amp; SW
 * similar keyboard, but done in a megalomaniac way: http://www.key64.org/
 * similar keyboard, but done in a yet more megalomaniac way: http://www.keyboard.io/
 * similar keyboard, with high switches, but using the same design process as we did (it's unbelievable their design is from 2013, our from 2008, but we didn't share anything :open_mouth:): http://habrahabr.ru/post/177347/
+* similar keyboard, but older and from Japan (it's interesting as our design was done completely independently and we discovered this Japan keyboard first in 2020): http://xahlee.info/kbd/Japan_keyboard_layouts.html (look for *jp keyboard layout jis x6004 60014*)
 * ZX81 USB kbd: http://blog.tynemouthsoftware.co.uk/2012/02/arduino-based-zx81-usb-keyboard.html
 * IBM model M with USB: http://www.schatenseite.de/dulcimer.html?L=2
 * IBM model M with USB: http://mg8.org/rump/
